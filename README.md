@@ -9,6 +9,9 @@ Kaue Augusto Miranda Santos
 **Ano:**
 2021
 
+## Prévia do projeto
+<img src="/Img_CV_IoTCheck" width="500">
+
 ## Objetivo / descrição do Projeto
 Projeto de visão computacional para a indústria de jogos, acessibilidade e outras várias possibilidades!
 As tecnologias utilizidas foram python, as bibliotecas opencv-python e matplotlib e a IDE Visual Studio Code.
